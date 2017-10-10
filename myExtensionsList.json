@@ -1,0 +1,17 @@
+{
+  "extensions": {
+    "enricodangelo.base16-tomorrow-dark-theme": true,
+    "brackets-beautify": true,
+    "brackets-css-color-preview": true,
+    "crot4lus.brackets-tabs": true,
+    "ivogabe.icons": true,
+    "delkos": true,
+    "milosh86.extensions-bulk-installer": false,
+    "go-ide": true,
+    "le717.html-skeleton": true,
+    "quakerwinters.monokai-dark-storm": true,
+    "newton-dark": true,
+    "tomorrow-night": true,
+    "wombatish-theme": true
+  }
+}

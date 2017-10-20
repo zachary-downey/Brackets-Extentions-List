@@ -5,6 +5,7 @@
     "brackets-css-color-preview": true,
     "crot4lus.brackets-tabs": true,
     "ivogabe.icons": true,
+    "brackets-script-builder": true,
     "delkos": true,
     "milosh86.extensions-bulk-installer": false,
     "go-ide": true,
@@ -12,6 +13,7 @@
     "brackets-html-wrapper": true,
     "quakerwinters.monokai-dark-storm": true,
     "newton-dark": true,
+    "grafluxe.pylinter": true,
     "tomorrow-night": true,
     "wombatish-theme": true
   }
